@@ -1,0 +1,1 @@
+huggingface-cli download xyzhu1225/ImBD-inference --local-dir models/ImBD-inference
